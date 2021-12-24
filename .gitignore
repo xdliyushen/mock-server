@@ -1,3 +1,6 @@
+# 不提交本地 mock 文件
+src/router
+
 # Logs
 logs
 *.log
